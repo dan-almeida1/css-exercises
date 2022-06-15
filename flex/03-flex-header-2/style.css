@@ -15,6 +15,17 @@ body {
   display: flex;
   align-items: center;
   padding: 8px;
+  justify-content:space-between;
+}
+
+.left {
+  display: flex;
+  align-self: left;
+}
+
+.right {
+  display: flex;
+  align-self: right;
 }
 
 .profile-image {
