@@ -18,7 +18,9 @@ img {
 
 .plants {
   display: flex;
+  gap: 52px;
 }
+
 
 /* do not edit this footer */
 .footer {
