@@ -20,12 +20,12 @@ body {
 
 .left {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .right {
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
 
 .profile-image {
@@ -60,5 +60,5 @@ a {
 ul {
   list-style-type: none;
   display: flex;
-  gap: 8px;
+  gap: 16px;
 }
