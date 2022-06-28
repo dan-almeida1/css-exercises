@@ -19,6 +19,11 @@ img {
 .plants {
   display: flex;
   gap: 52px;
+  justify-content: space-around;
+}
+
+.info{
+  flex-basis: 200px;
 }
 
 
