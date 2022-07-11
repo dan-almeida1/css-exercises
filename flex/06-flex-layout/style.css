@@ -9,6 +9,7 @@ body {
 
 ul {
   list-style-type: none;
+  padding: 0;
 }
 
 img {
@@ -32,13 +33,5 @@ input {
 
 .header {
   display: flex;
-  justify-content: space-between
-}
-
-.left-links {
-  
-}
-
-.right-links {
-  
+  justify-content: space-between;
 }
