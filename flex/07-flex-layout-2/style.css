@@ -20,6 +20,12 @@ body {
 
 .body {
   display: flex;
+  flex-grow: 1;
+}
+
+.main {
+  display: flex;
+  padding: 32px;
 }
 
 .sidebar {
