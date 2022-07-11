@@ -36,6 +36,8 @@ body {
   padding: 32px;
   gap: 16px;
   align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 
 }
 
@@ -53,6 +55,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   padding: 8px;
+  flex-basis: 200px;
 }
 
 ul {
