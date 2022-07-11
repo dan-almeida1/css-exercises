@@ -39,6 +39,11 @@ body {
   flex-shrink: 0;
 }
 
+.header {
+  font-weight: bold;
+  font-size: 20px;
+}
+
 .body {
   display: flex;
   flex-direction: column;
