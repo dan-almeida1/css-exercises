@@ -56,3 +56,8 @@ body {
 ul {
   list-style-type: none;
 }
+
+a:link {
+  text-decoration: none;
+  color: white;
+}
