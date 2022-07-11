@@ -61,3 +61,10 @@ a:visited {
   display: flex;
   gap: 16px;
 }
+
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
