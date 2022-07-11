@@ -31,6 +31,15 @@ input {
   margin-bottom: 16px;
 }
 
+a:link {
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  color: black;
+}
+
 .header {
   display: flex;
   justify-content: space-between;
