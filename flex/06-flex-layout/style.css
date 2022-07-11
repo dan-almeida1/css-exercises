@@ -46,6 +46,12 @@ a:visited {
   padding: 8px;
 }
 
+.footer {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px;
+}
+
 .left-links {
   display: flex;
   gap: 16px;
