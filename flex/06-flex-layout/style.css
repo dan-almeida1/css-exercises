@@ -43,4 +43,15 @@ a:visited {
 .header {
   display: flex;
   justify-content: space-between;
+  padding: 8px;
+}
+
+.left-links {
+  display: flex;
+  gap: 16px;
+}
+
+.right-links {
+  display: flex;
+  gap: 16px;
 }
