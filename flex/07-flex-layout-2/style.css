@@ -4,7 +4,6 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 
 .header {
@@ -24,16 +23,8 @@ body {
   background: royalblue;
 }
 
-.body {
-  display: flex;
-  flex-grow: 1;
-}
-
 .card {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  display: flex;
-  flex-wrap: wrap;
-  flex-grow: 0;
 }
